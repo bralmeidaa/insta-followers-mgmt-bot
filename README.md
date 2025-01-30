@@ -1,1 +1,0 @@
-# insta-followers-mgmt-bot
